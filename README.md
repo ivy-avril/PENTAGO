@@ -1,3 +1,2 @@
 # PENTAGO
-PENTAGO game in MH1401
- - Matlab
+PENTAGO game in MH1401, Matlab
